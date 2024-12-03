@@ -7,4 +7,5 @@ KAMEL_LOBE (.m, .py): Implementations in MATLAB and Python to perform KAMEL-LOBE
 
 Example of applying KAMEL-LOBE to rdfs estimated with moderate and very high binning. 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/16a50a05-9a3e-4388-b52d-4346fc155bfb)
+
